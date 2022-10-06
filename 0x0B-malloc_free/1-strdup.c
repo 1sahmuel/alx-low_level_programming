@@ -27,5 +27,9 @@ char *_strdup(char *str)
 		s[j] = str[j];
 	}
 	return (s);
+<<<<<<< HEAD
 }
 
+=======
+}
+>>>>>>> cf1d6f82f111a91bda10eef1f48e1a8ef1f57af0

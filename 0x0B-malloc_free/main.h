@@ -10,5 +10,9 @@ void free_grid(int **grid, int height);
 char *argstostr(int ac, char **av);
 char **strtow(char *str);
 
+<<<<<<< HEAD
 #endif /* _MAIN_H_ */
 
+=======
+#endif /* _MAIN_H_ */
+>>>>>>> cf1d6f82f111a91bda10eef1f48e1a8ef1f57af0
